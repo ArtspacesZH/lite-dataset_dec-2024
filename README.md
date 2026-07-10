@@ -1,5 +1,5 @@
 # Dataset
-Metadata on art spaces in Zurich. Collected by hand in December 2024.
+Metadata on art spaces in Zurich. Collected by hand in December '24.
 
 ### Spatiality
 CSV aims to show the spatial logic of the art scene in Zurich. From established Kreis 1 to indie Kreis 4 and 5.
